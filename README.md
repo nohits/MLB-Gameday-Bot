@@ -4,7 +4,7 @@ Generates a report of todays MLB games, giving detailed information about each m
 
 Lots of relevant stats are provided about the teams/ players to better predict outcomes.
 
-This data is gathered from different stats APIs. 
+Designed to be a 1-stop-shop when conducting research. This data is gathered from different stats APIs. 
 
 Download, then right-click and run with powershell to execute.
 
