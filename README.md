@@ -14,7 +14,6 @@ More stats and functionality will be added.
 
 PREVIEW OF OUTPUT:
 
-<br>
 
 
 -- MATCHUP --
