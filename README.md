@@ -18,9 +18,9 @@ PREVIEW OF OUTPUT:
 <pre>
 -- MATCHUP --
 
-MATCHUP   : New York Yankees (68-69) @ Houston Astros (77-61)
-GAME TIME : 9/3/2023 6:10:00 PM
-PROBABLES : Michael King vs Cristian Javier
+MATCHUP   : New York Yankees (68-69) @ Houston Astros (77-61)\
+GAME TIME : 9/3/2023 6:10:00 PM\
+PROBABLES : Michael King vs Cristian Javier\
 WEATHER   : Roof Closed, 73F, 0 mph, None
 MONEYLINE : 
 
