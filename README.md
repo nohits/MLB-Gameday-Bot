@@ -15,7 +15,7 @@ More stats and functionality will be added.
 PREVIEW OF OUTPUT:
 
 
-
+<pre>
 -- MATCHUP --
 
 MATCHUP   : New York Yankees (68-69) @ Houston Astros (77-61)
@@ -129,3 +129,4 @@ Y.Alvarez VS SP     : AB 003, AVG .333, HR 00, SLG .333, OBP .500, K 00
 Last 5 Scores       : NEW 5 @ HOU 4, NEW 6 @ HOU 2, HOU 7 @ BOS 4, HOU 6 @ BOS 2
 
 
+</pre>
