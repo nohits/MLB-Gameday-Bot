@@ -21,10 +21,10 @@ PREVIEW OF OUTPUT:
 MATCHUP   : New York Yankees (68-69) @ Houston Astros (77-61)
 GAME TIME : 9/3/2023 6:10:00 PM
 PROBABLES : Michael King vs Cristian Javier
-WEATHER   : Roof Closed, 73F, 0 mph, None
+WEATHER   : Roof Closed, 73F, 0 mph, No Direction
 MONEYLINE : 
 
-Away Pitcher
+Away SP
 RHP MICHAEL KING            : 4-5
 IP                          : 78.0
 ERA                         : 2.88
@@ -46,7 +46,7 @@ Career                      : 221.0 IP, 3.50 ERA, WL 13-14
 Career+                     : AVG .221, SLG .351
 vs Houston Astros           : 44 PA, 3 R, 12 K, .275 AVG,  HR
 
-Home Pitcher
+Home SP
 RHP CRISTIAN JAVIER         : 9-3
 IP                          : 137.1
 ERA                         : 4.65
