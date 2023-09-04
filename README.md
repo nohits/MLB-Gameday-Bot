@@ -12,7 +12,9 @@ More stats and functionality will be added.
 
 </br>
 
-Preview of output:
+PREVIEW OF OUTPUT:
+
+</br>
 
 
 -- MATCHUP --
