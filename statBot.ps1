@@ -1,4 +1,4 @@
-﻿<#
+<#
 .DESCRIPTION
     THIS PROGRAM IS DESIGNED TO BE A ONE-STOP-SHOP FOR ALL MLB DECISION MAKING.
 .AUTHOR
@@ -463,4 +463,6 @@ foreach($game in $matchupList){
 
 }
 
+Start-Sleep -Seconds 8
 
+Read-Host "report has finished generating, press enter to exit"
